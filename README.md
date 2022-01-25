@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @templbi
-- 👀 I’m interested in ... learning to code and changing carrers.
+- 👀 I’m interested in ... learning to code and changing careers.
 - 🌱 I’m currently learning ... the Intro To Coding nanodegree program through Udacity. 
-- 💞️ I’m looking to collaborate on ... anything that will further my knowledge in this field and meet some cool new people. :) 
+- 💞️ I’m looking to collaborate on ... anything that will further my knowledge in this field and meet some cool new people to collaborate with and possibly a mentor. :) 
 - 📫 How to reach me ...https://www.linkedin.com/in/billytempleton/
 
 <!---
